@@ -16,7 +16,8 @@ body {
 
 .header {
   
-  background: yellow;
+
+  background: salmon;
   padding: 20px;
   height: auto;
   color: #FFFFFF;
@@ -40,7 +41,7 @@ body {
 
 .header-nav {
  
-  margin-top: 10px;
+  margin-top: 40px;
   /* width: 30%; */
   /* height: 50%; */
   text-align: center;
